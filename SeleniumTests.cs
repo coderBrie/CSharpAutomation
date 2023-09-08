@@ -38,14 +38,15 @@ namespace Stifel_Automation_Project
             IWebElement userIdField = driver.FindElement(By.Id("user_id"));
             userIdField.SendKeys("YourLoginID"); // Replace with your actual login ID
 
-
-            
+            //root cause : Logic Error found - password auto fill is being skipped//
+            //testing potentencial solutions from stack overflow//
+            //driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(100000);
             IWebElement passwordField = driver.FindElement(By.Id("password"));
             passwordField.SendKeys("YourPassword"); // Replace with your actual password
 
             // Step 5: Submit the login form
-            //IWebElement submitButton = driver.FindElement(By.CssSelector("input[type='submit']"));
-            //submitButton.Click();
+            IWebElement submitButton = driver.FindElement(By.CssSelector("input[type='submit']"));
+            submitButton.Click();
 
             // Step 6: Wait for the next page to load or some other element that indicates a successful login
             //  add an appropriate condition here to wait for a specific element or page title.
