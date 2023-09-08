@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/Stifel Automation Project.csproj": {}
+  },
+  "projects": {
+    "/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/Stifel Automation Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/Stifel Automation Project.csproj",
+        "projectName": "Stifel Automation Project",
+        "projectPath": "/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/Stifel Automation Project.csproj",
+        "packagesPath": "/Users/briarispastiche/.nuget/packages/",
+        "outputPath": "/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/briarispastiche/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.TestPlatform": {
+              "target": "Package",
+              "version": "[17.7.2, )"
+            },
+            "Microsoft.TestPlatform.TestHost": {
+              "target": "Package",
+              "version": "[17.7.2, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.12.4, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.12.4, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[116.0.5845.9600, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

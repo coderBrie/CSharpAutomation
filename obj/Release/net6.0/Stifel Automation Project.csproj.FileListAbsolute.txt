@@ -1,0 +1,28 @@
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/selenium-manager/linux/selenium-manager
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/selenium-manager/macos/selenium-manager
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/selenium-manager/windows/selenium-manager.exe
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/Stifel Automation Project
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/Stifel Automation Project.deps.json
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/Stifel Automation Project.runtimeconfig.json
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/Stifel Automation Project.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/Stifel Automation Project.pdb
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/Newtonsoft.Json.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/WebDriver.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/System.Drawing.Common.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/bin/Release/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/Release/net6.0/Stifel Automation Project.csproj.AssemblyReference.cache
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/Release/net6.0/Stifel Automation Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/Release/net6.0/Stifel Automation Project.AssemblyInfoInputs.cache
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/Release/net6.0/Stifel Automation Project.AssemblyInfo.cs
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/Release/net6.0/Stifel Automation Project.csproj.CoreCompileInputs.cache
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/Release/net6.0/Stifel Automation Project.csproj.CopyComplete
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/Release/net6.0/Stifel Automation Project.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/Release/net6.0/refint/Stifel Automation Project.dll
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/Release/net6.0/Stifel Automation Project.pdb
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/Release/net6.0/Stifel Automation Project.genruntimeconfig.cache
+/Users/briarispastiche/Projects/Stifel Automation Project/Stifel Automation Project/obj/Release/net6.0/ref/Stifel Automation Project.dll
